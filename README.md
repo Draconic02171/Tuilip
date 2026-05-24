@@ -1,4 +1,5 @@
-<img width="493" height="476" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/7c5fef12-ca04-4e74-824a-5c0d604b5d30" />
+![logo](https://github.com/Draconic02171/Tuilip/blob/main/Untitled%20design(1).png)
+
 # Tuilip
 
 Tiny text-based user interface rendering library for C.
