@@ -43,6 +43,7 @@ int main() {
     return 0;
 }
 ```
+![result](https://github.com/Draconic02171/Tuilip/blob/main/Screenshot-2026-05-24_20-14-37-396.png)
 
 ## Features
 
